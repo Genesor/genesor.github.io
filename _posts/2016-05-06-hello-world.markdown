@@ -10,7 +10,7 @@ description: My first words and my first project...
 
 <hr>
 
-One of my hobby is to connect things. I'm currently owning three types of Phillips Hue lamps, but as you know those lamps are already connected so there is almost no challenge to use them with a web UI or a mobile app.
+One of my hobbies is to connect things. I'm currently owning three types of Phillips Hue lamps, but as you know those lamps are already connected so there is almost no challenge to use them with a web UI or a mobile app.
 
 What I want to do is to "connect" some of my infrared generic lamps to my Raspberry Pi using [LIRC](http://www.lirc.org/){:target="_blank"}{:target="_blank"} and [Go](https://golang.org/){:target="_blank"}. Then I'll be able to interact with the lamps using an API and a Web UI (maybe an iOS app if I'm brave enough)
 
@@ -32,7 +32,7 @@ I'll start by connecting the three following lamps, a multicolor LED bulb and tw
 
 > The basic schematic of my IR receiver/emitter available [here](https://123d.circuits.io/circuits/2107586-basic-ir-receiver-emitter-raspberry){:target="_blank"}
 
-I intend to use the GPIO 8 to read the incoming IR signals from the differents sources and the GPIO 1 to send the signals. To do so I only need to have the good LIRC configuration.
+I intend to use the GPIO 8 to read the incoming IR signals from the different sources and the GPIO 1 to send the signals. To do so I only need to have the good LIRC configuration.
 
 <hr>
 

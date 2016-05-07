@@ -11,7 +11,7 @@ github_username:  Genesor
 # Build settings
 markdown: kramdown
 
-highlighter: pygments
+highlighter: rouge
 google_analytics: UA-76656028-1
 # Pagination
 paginate: 15
