@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello World !
+title: First steps into connected lamps
 date: 2016-05-06 	20:30:00
 comments: true
 description: My first words and my first project...
@@ -16,12 +16,11 @@ What I want to do is to "connect" some of my infrared generic lamps to my Raspbe
 
 I'll start by connecting the three following lamps, a multicolor LED bulb and two multicolor table lamps
 
-<div class="img_row">
-	<img class="col one" src="/img/01_ampoule_ir.jpg">
-	<img class="col one" src="/img/01_lampe_ir.jpeg">
-	<img class="col one" src="/img/01_lampe_ir_2.jpg">
-</div>
-
+<p>
+	<img style="max-width:30%;display:inline;margin:1%" src="/img/01_ampoule_ir.jpg">
+	<img style="max-width:30%;display:inline;margin:1%" src="/img/01_lampe_ir.jpeg">
+	<img style="max-width:30%;display:inline;margin:1%" src="/img/01_lampe_ir_2.jpg">
+</p>
 > The three lamps i'm trying to connect
 
 <hr>

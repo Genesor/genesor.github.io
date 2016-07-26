@@ -1,0 +1,26 @@
+- speakers: ["Olivier Dolbeau"]
+  date:     "24/05/2016"
+  event:    "PHP Tour Clermont-Ferrand 2016"
+  place:    "Clermont-Ferrand (France)"
+  title:    "Be gentle with your prod"
+  url:      https://speakerdeck.com/genesor/be-gentle-with-your-prod#stargazers
+
+- speakers: ["Olivier Dolbeau"]
+  date:     "04/12/2015"
+  event:    "SymfonyCon 2015"
+  place:    "Paris (France)"
+  title:    "Symfony @ BlaBlaCar"
+  url:      https://speakerdeck.com/genesor/symfony-at-blablacar
+
+- speakers: ["Olivier Dolbeau"]
+  date:     "13-15/11/2015"
+  event:    "PHPCon Poland 2015"
+  place:    "Ossa (Poland)"
+  title:    "The technical story of BlaBlaCar"
+  url:      https://speakerdeck.com/genesor/phpcon-2015-the-technical-story-of-blablacar
+
+- date:     "20/10/2015"
+  event:    "BlaBlaTech Warsaw Meetup #2"
+  place:    "Warsaw (Poland)"
+  title:    "Gateway - How to bring down our monolith"
+  url:      https://speakerdeck.com/genesor/gateway-how-to-bring-down-our-monolith
