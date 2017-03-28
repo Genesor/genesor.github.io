@@ -1,3 +1,3 @@
-#Clean Blog by Start Bootstrap - Jekyll Version
+# Blog.sadoma.so
 
-My blog
+Personal Blog
