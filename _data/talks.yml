@@ -1,9 +1,24 @@
 - speakers: ["Olivier Dolbeau"]
+  date:     "30/09/2016"
+  event:    "Paris Web 2016"
+  place:    "Montrouge (France)"
+  title:    "Features flags at BlaBlaCar"
+  url:      https://speakerdeck.com/genesor/features-flags-at-blablacar
+
+- speakers: ["Olivier Dolbeau"]
+  date:     "03/09/2016"
+  event:    "PHP Framework Day 2016"
+  place:    "Kiev (Ukraine)"
+  title:    "25+ million members in 22 countries, how to scale with Symfony2"
+  url:      https://speakerdeck.com/genesor/25-plus-million-members-in-22-countries-how-to-scale-with-symfony2
+
+- speakers: ["Olivier Dolbeau"]
   date:     "24/05/2016"
   event:    "PHP Tour Clermont-Ferrand 2016"
   place:    "Clermont-Ferrand (France)"
   title:    "Be gentle with your prod"
-  url:      https://speakerdeck.com/genesor/be-gentle-with-your-prod#stargazers
+  url:      https://speakerdeck.com/genesor/be-gentle-with-your-prod
+
 
 - speakers: ["Olivier Dolbeau"]
   date:     "04/12/2015"
